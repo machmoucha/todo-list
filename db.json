@@ -1,0 +1,33 @@
+{
+  "todos": [
+    {
+      "id": "0",
+      "title": "ceo",
+      "date": "2023-12-16",
+      "description": "Effectuer un ceo",
+      "done": true
+    },
+    {
+      "id": "1",
+      "title": "car",
+      "date": "2023-12-25",
+      "description": "Acheter une voiture",
+      "done": false
+    },
+    {
+      "id": "2",
+      "title": "mechmech",
+      "date": "2024-01-24",
+      "description": "Rencontrer mechmech",
+      "done": false
+    }
+  ],
+  "users": [
+    {
+      "id": "0",
+      "login": "1234",
+      "password": "1234",
+      "token": "abricot"
+    }
+  ]
+}
